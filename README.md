@@ -18,17 +18,19 @@ This Python script uses Selenium to scrape salary data for different college deg
 1. Clone the repository:
 
 ```bash
-git clone https://github.com/your_username/python_salary_by_degree_selenium.git
+git clone https://github.com/j-breedlove/salary_by_degree_selenium.git
+```
+2. Change directory:
+```bash
 cd salary_by_degree_selenium
 ```
-
-2. Install the project using pipenv:
+3. Install the project using pipenv:
 
 ```bash
 pipenv install
 ```
 
-3. Activate the pipenv shell:
+4. Activate the pipenv shell:
 
 ```bash
 pipenv shell
